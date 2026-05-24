@@ -1,2 +1,2 @@
-hello_world=1
-print(hello_world)
+hello_python=1
+print(hello_python)
